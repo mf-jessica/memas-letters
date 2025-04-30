@@ -20,7 +20,7 @@ In addition to the letters, you’ll find various items such as newspaper clippi
 
 This project came about after my grandmother's passing when my mother asked for my assistance in organizing and preserving these letters. The goal is to create an accessible record of our family's history, allowing future generations to connect with the past. We invite you to explore these documents and learn more about our family's story.
 
-{% include feature/pdf.html objectid="lett001" %}
+{% include feature/pdf.html objectid="lett001" width=50 %}
 
 ## About the Archivist
 
