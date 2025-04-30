@@ -8,20 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="/assets/img/gibsonville-town-hall.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;About the Archivist" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Welcome to our digital collection of family correspondence. This collection features letters from my great-grandmother, Lela Florence Steele, to her daughter, Catherine Steele Lineberger, written between 1973 and 1974. Originating from Gibsonville, North Carolina, these letters provide a glimpse into the family's everyday life, interactions with local residents, and commentary on regional and national events of the time.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+In addition to the letters, you’ll find various items such as newspaper clippings and birthday cards that enrich the context of this correspondence.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This project came about after my grandmother's passing when my mother asked for my assistance in organizing and preserving these letters. The goal is to create an accessible record of our family's history, allowing future generations to connect with the past. We invite you to explore these documents and learn more about our family's story.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+## About the Archivist
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Jessica MF is the great-granddaughter of Lela Florence Steele and the manager of this digital archive. She is a librarian and a student at the School of Library and Information Science at The University of Iowa. 
