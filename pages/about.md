@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html /assets/img/gibsonville-town-hall.jpg %}
+{% include feature/jumbotron.html /assets/img/gibsonville-town-hall.JPG %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the Archivist" %}
 
