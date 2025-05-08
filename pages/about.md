@@ -22,6 +22,8 @@ This project came about after my grandmother's passing when my mother asked for 
 
 {% include feature/pdf.html objectid="lett001" width=50 %}
 
+Titles in brackets indicate titles designated by the archivist rather than the creator of the document.
+
 ## About the Archivist
 
 Jessica MF is the great-granddaughter of Lela Florence Steele and the manager of this digital archive. She is a librarian and a student at the School of Library and Information Science at The University of Iowa. 
